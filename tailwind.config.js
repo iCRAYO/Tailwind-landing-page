@@ -8,6 +8,10 @@ module.exports = {
       xl: '1440px',
     },
     extend: {
+      fontFamily: {
+        roboto: ["Roboto", 'san-serif'],
+      },
+
       colors: {
         orangeLight: 'hsla(40, 100%, 50%, 1)',
         brightRed: 'hsl(12, 88%, 59%)',
